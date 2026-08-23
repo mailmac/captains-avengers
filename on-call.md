@@ -7,7 +7,7 @@ permalink: /on-call/
 
 ## 01 · The alert
 
-> **Example: API error rate > 5%**
+> **Example: Database connection pool exhausted**
 
 Triggered when the production API returns HTTP 5xx responses above the configured threshold for five consecutive minutes.
 
